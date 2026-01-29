@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: radial-gradient(ellipse at 100% 5%, #136, #213);
+}
+
+.head {
+    height:10px; 
+    background: radial-gradient(circle at 100% 20%, #444, #111);
+}
+
+h1 {
+    color: #F0F0F0; 
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h3 span {
+    text-align: center; 
+    color: #DCDCDC;
+}
+
+.go-doney {
+    text-align: center; 
+    color: #E0D6C8;
+}
+
+.img-div {
+    text-align: center;
+}
+
+.img {
+    border-radius: 20px; 
+    box-shadow: 0px 20px 40px rgba(0,0,0,0.7);
+}
+
+.not-clicked {
+    text-align: center; 
+    color: #C9E2C1;
+}
+
+.clicked {
+    text-align: center; 
+    color: #C1C5E2;
+}
+
+h4 {
+    color:white; 
+    text-align: center;
+}
+
+.gif {
+    text-align: center; 
+    border-radius: 20px;
+}
+
+.link-div {
+    text-align: center;
+}
+
+.button {
+    color: #E2DFC1;
+    text-decoration: none;
+    display:inline-block;
+    background: radial-gradient(circle at 100% 0%, #444, #030940);
+    padding: 10px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.5);
+}
+#gif{
+  border-radius: 20px;
+  box-shadow: 0px 20px 40px rgba(0,0,0,0.5);
+}
+.font{
+  font-family: Sans-Serif;
+}
